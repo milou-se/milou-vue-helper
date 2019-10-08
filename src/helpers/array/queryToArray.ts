@@ -1,4 +1,4 @@
-export function UrlParamsToArray(params: string) {
+export function QueryToArray(params: string): any[] {
     const request: any[] = [];
     const pairs: string[] = params.split('&');
     pairs.forEach((item: any, index: number) => {

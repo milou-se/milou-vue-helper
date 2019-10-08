@@ -1,4 +1,4 @@
-export function ParseQueryString(url?: string): any {
+export function QueryToObject(url?: string): any {
     const defaultUrl = document.location ? document.location.search : '';
     url = url || defaultUrl;
     const urlParams: any = {};

@@ -1,7 +1,7 @@
 import {expect} from 'chai';
-import {StringToFloat} from '../src/helpers/stringToFloat/stringToFloat';
+import {StringToFloat} from '../../src/helpers/convert/stringToFloat';
 
-describe('Common.Helpers.StringToFloat', () => {
+describe('Helpers.Convert.StringToFloat', () => {
     it('Convert string to float', () => {
         expect(StringToFloat('0,1')).to.equal(0.1);
     });

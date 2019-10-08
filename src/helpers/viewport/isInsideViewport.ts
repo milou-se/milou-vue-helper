@@ -1,8 +1,4 @@
-export function IsElementInViewport(element: any): boolean {
-    if (typeof jQuery === 'function' && element instanceof jQuery) {
-        element = (element as JQuery<Element>)[0] as HTMLElement;
-    }
-
+export function IsInsideViewport(element: HTMLElement): boolean {
     const rect = element.getBoundingClientRect();
     return (
         rect.top >= 0 &&

@@ -6,9 +6,8 @@ module.exports = function (config) {
         basePath: './',
         frameworks: ['mocha', 'karma-typescript'],
         files: [
-            './test/*.ts',
-            './src/**/*.ts',
-            './src/*.ts'
+            './test/**/*.ts',
+            './src/**/*.ts'
         ],
         preprocessors: {
             '**/*.ts': ['karma-typescript']

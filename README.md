@@ -1,8 +1,8 @@
 # MilouVueHelper
-Helper functions for page based websites using VueJs
+Helper functions for page based websites using JS AND VUEJS
 
 ### Install
 
 ```bash
-npm install @milou.se/vue-helper --save
+NOT READY FOR DISTRUBUTION
 ```

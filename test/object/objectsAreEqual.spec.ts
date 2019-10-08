@@ -1,8 +1,8 @@
-import {objectsAreEqual} from '../src/helpers/objectsAreEqual/objectsAreEqual';
+import {ObjectsAreEqual} from '../../src/helpers/object/objectsAreEqual';
 import {expect} from 'chai';
 
 mocha.ui('bdd');
-describe('Common.NumberSeparator', () => {
+describe('Helpers.Object.ObjectsAreEqual', () => {
     const object1 = {
         name: '1',
         id: '1'
@@ -34,16 +34,16 @@ describe('Common.NumberSeparator', () => {
     }
 
     it('Non deep objects should be equal', () => {
-        expect(objectsAreEqual(object1, object11)).to.be.true;
+        expect(ObjectsAreEqual(object1, object11)).to.be.true;
     });
     it('Non deep objects should NOT be equal', () => {
-        expect(objectsAreEqual(object1, object3)).to.be.false;
+        expect(ObjectsAreEqual(object1, object3)).to.be.false;
     });
     it('Deep objects should be equal', () => {
-        expect(objectsAreEqual(object3, object33)).to.be.true;
+        expect(ObjectsAreEqual(object3, object33)).to.be.true;
     });
     it('Deep objects should NOT be equal', () => {
-        expect(objectsAreEqual(object33, object4)).to.be.false;
+        expect(ObjectsAreEqual(object33, object4)).to.be.false;
     });
 })
 ;
