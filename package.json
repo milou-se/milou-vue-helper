@@ -1,9 +1,9 @@
 {
   "name": "@milou.se/vue-helper",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Helper functions for page based websites using VueJs",
   "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "types": "dist/**/*.d.ts",
   "files": [
     "dist/**/*"
   ],
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:milou-se/milou-vue-helper.git"
+    "url": "git+ssh://git@github.com/milou-se/milou-vue-helper.git"
   },
   "author": "Pontus Olofsson, Milou",
   "license": "ISC",
@@ -50,8 +50,7 @@
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.6.3",
     "jquery": "^3.4.1",
-    "vue": "^2.6.10",
-    "vue-property-decorator": "^8.2.2"
+    "vue": "^2.6.10"
   },
   "peerDependencies": {
     "jquery": "^3.4.1",
