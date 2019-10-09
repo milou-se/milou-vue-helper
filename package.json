@@ -1,6 +1,6 @@
 {
   "name": "@milou.se/vue-helper",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Helper functions for page based websites using VueJs",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
