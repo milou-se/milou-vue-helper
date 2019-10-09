@@ -14,7 +14,7 @@
 
 ▸ **QueryToArray**(`params`: string): *any[]*
 
-*Defined in [helpers/array/queryToArray.ts:1](https://github.com/milou-se/milou-vue-helper/blob/1661c8d/src/helpers/array/queryToArray.ts#L1)*
+*Defined in [helpers/array/queryToArray.ts:1](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/array/queryToArray.ts#L1)*
 
 **Parameters:**
 

@@ -14,7 +14,7 @@
 
 ▸ **AppendComponent**(`component`: Vue, `target?`: string | Element): *Vue*
 
-*Defined in [helpers/vue/appendComponent.ts:3](https://github.com/milou-se/milou-vue-helper/blob/1661c8d/src/helpers/vue/appendComponent.ts#L3)*
+*Defined in [helpers/vue/appendComponent.ts:3](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/vue/appendComponent.ts#L3)*
 
 **Parameters:**
 

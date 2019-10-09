@@ -1,5 +1,5 @@
 import {expect} from 'chai';
-import {QueryToObject} from '../../src/helpers/object/queryToObject';
+import {QueryToObject} from '../../src';
 
 describe('Helpers.Object.QueryToObject', () => {
     it('Expect an object with property b', () => {

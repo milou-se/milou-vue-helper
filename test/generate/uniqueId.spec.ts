@@ -1,4 +1,4 @@
-import {GenerateUniqueId} from '../../src/helpers/generate/generateUniqueId';
+import {GenerateUniqueId} from '../../src';
 import {expect} from 'chai';
 
 describe('Helpers.Generate.GenerateUniqueId', () => {

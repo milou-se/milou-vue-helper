@@ -19,7 +19,7 @@
 * ["helpers/html/elementOffsetTop"](modules/_helpers_html_elementoffsettop_.md)
 * ["helpers/html/sanitizeHtml"](modules/_helpers_html_sanitizehtml_.md)
 * ["helpers/object/objectClone"](modules/_helpers_object_objectclone_.md)
-* ["helpers/object/objectIsPlain"](modules/_helpers_object_objectisplain_.md)
+* ["helpers/object/objectIsEmpty"](modules/_helpers_object_objectisempty_.md)
 * ["helpers/object/objectToQuery"](modules/_helpers_object_objecttoquery_.md)
 * ["helpers/object/objectsAreEqual"](modules/_helpers_object_objectsareequal_.md)
 * ["helpers/object/queryToObject"](modules/_helpers_object_querytoobject_.md)

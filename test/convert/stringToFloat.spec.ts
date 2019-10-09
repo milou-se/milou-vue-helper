@@ -1,5 +1,5 @@
 import {expect} from 'chai';
-import {StringToFloat} from '../../src/helpers/convert/stringToFloat';
+import {StringToFloat} from '../../src';
 
 describe('Helpers.Convert.StringToFloat', () => {
     it('Convert string to float', () => {

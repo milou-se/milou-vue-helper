@@ -1,4 +1,4 @@
-import {ObjectsAreEqual} from '../../src/helpers/object/objectsAreEqual';
+import {ObjectsAreEqual} from '../../src';
 import {expect} from 'chai';
 
 mocha.ui('bdd');

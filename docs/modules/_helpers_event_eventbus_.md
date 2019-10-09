@@ -14,4 +14,4 @@
 
 • **EventBus**: *object & object & Vue* =  new Vue()
 
-*Defined in [helpers/event/eventBus.ts:3](https://github.com/milou-se/milou-vue-helper/blob/1661c8d/src/helpers/event/eventBus.ts#L3)*
+*Defined in [helpers/event/eventBus.ts:3](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/event/eventBus.ts#L3)*

@@ -14,7 +14,7 @@
 
 ▸ **ObjectToQuery**(`data`: any): *string*
 
-*Defined in [helpers/object/objectToQuery.ts:1](https://github.com/milou-se/milou-vue-helper/blob/1661c8d/src/helpers/object/objectToQuery.ts#L1)*
+*Defined in [helpers/object/objectToQuery.ts:1](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/object/objectToQuery.ts#L1)*
 
 **Parameters:**
 

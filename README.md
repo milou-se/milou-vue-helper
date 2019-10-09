@@ -1,8 +1,10 @@
 # MilouVueHelper
-Helper functions for page based websites using JS AND VUEJS
+Helper functions for page based websites using Typescript AND VueJS
+
+See docs folder for more information
 
 ### Install
 
 ```bash
-NOT READY FOR DISTRUBUTION
+    npm i @milou.se/vue-helper -s
 ```

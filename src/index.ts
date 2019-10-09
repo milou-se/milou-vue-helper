@@ -15,7 +15,7 @@ export { ElementOffsetTop } from './helpers/html/elementOffsetTop';
 export { SanitizeHTML } from './helpers/html/sanitizeHtml';
 
 export { ObjectClone } from './helpers/object/objectClone';
-export { ObjectIsPlain } from './helpers/object/objectIsPlain';
+export { ObjectIsEmpty } from './helpers/object/objectIsEmpty';
 export { ObjectsAreEqual } from './helpers/object/objectsAreEqual';
 export { ObjectToQuery } from './helpers/object/objectToQuery';
 export { QueryToObject } from './helpers/object/queryToObject';

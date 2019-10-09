@@ -1,4 +1,4 @@
-import {Capitalize} from '../../src/helpers/convert/capitalize';
+import {Capitalize} from '../../src';
 import {expect} from 'chai';
 
 mocha.ui('bdd');
