@@ -14,7 +14,7 @@
 
 ▸ **ArrayHasItems**(`arr`: unknown[]): *boolean*
 
-*Defined in [helpers/array/arrayHasItems.ts:1](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/array/arrayHasItems.ts#L1)*
+*Defined in [helpers/array/arrayHasItems.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/array/arrayHasItems.ts#L1)*
 
 **Parameters:**
 

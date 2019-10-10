@@ -14,7 +14,7 @@
 
 ▸ **MountVueHtml**(`html`: any, `targetElement`: Element): *void*
 
-*Defined in [helpers/vue/mountVueHtml.ts:3](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/vue/mountVueHtml.ts#L3)*
+*Defined in [helpers/vue/mountVueHtml.ts:3](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/vue/mountVueHtml.ts#L3)*
 
 **Parameters:**
 

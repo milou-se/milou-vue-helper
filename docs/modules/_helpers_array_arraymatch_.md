@@ -14,7 +14,7 @@
 
 ▸ **ArrayMatch**(`arr1`: any[], `arr2`: any[]): *boolean*
 
-*Defined in [helpers/array/arrayMatch.ts:1](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/array/arrayMatch.ts#L1)*
+*Defined in [helpers/array/arrayMatch.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/array/arrayMatch.ts#L1)*
 
 **Parameters:**
 

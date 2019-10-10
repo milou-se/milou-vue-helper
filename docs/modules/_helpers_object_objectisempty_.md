@@ -14,7 +14,7 @@
 
 ▸ **ObjectIsEmpty**(`obj`: object): *boolean*
 
-*Defined in [helpers/object/objectIsEmpty.ts:1](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/object/objectIsEmpty.ts#L1)*
+*Defined in [helpers/object/objectIsEmpty.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/object/objectIsEmpty.ts#L1)*
 
 **Parameters:**
 

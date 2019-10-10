@@ -14,7 +14,7 @@
 
 ▸ **ElementOffsetTop**(`elem`: HTMLElement): *number*
 
-*Defined in [helpers/html/elementOffsetTop.ts:1](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/html/elementOffsetTop.ts#L1)*
+*Defined in [helpers/html/elementOffsetTop.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/html/elementOffsetTop.ts#L1)*
 
 **Parameters:**
 

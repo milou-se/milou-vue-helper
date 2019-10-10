@@ -14,7 +14,7 @@
 
 ▸ **SanitizeHTML**(`str`: string): *string*
 
-*Defined in [helpers/html/sanitizeHtml.ts:1](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/html/sanitizeHtml.ts#L1)*
+*Defined in [helpers/html/sanitizeHtml.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/html/sanitizeHtml.ts#L1)*
 
 **Parameters:**
 

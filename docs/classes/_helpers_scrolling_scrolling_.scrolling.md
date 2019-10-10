@@ -20,7 +20,7 @@
 
 ▸ **Exist**(`el`: HTMLElement): *boolean*
 
-*Defined in [helpers/scrolling/scrolling.ts:14](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/scrolling/scrolling.ts#L14)*
+*Defined in [helpers/scrolling/scrolling.ts:14](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/scrolling/scrolling.ts#L14)*
 
 **Parameters:**
 
@@ -36,7 +36,7 @@ ___
 
 ▸ **GoTo**(`element`: JQuery‹Element› | JQuery‹HTMLElement›, `onlyUp`: boolean, `speed`: number, `offset`: number, `scrollElement`: string): *void*
 
-*Defined in [helpers/scrolling/scrolling.ts:18](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/scrolling/scrolling.ts#L18)*
+*Defined in [helpers/scrolling/scrolling.ts:18](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/scrolling/scrolling.ts#L18)*
 
 **Parameters:**
 
@@ -56,7 +56,7 @@ ___
 
 ▸ **IsBottom**(`e`: Event): *boolean*
 
-*Defined in [helpers/scrolling/scrolling.ts:2](https://github.com/milou-se/milou-vue-helper/blob/ff1ebdd/src/helpers/scrolling/scrolling.ts#L2)*
+*Defined in [helpers/scrolling/scrolling.ts:2](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/scrolling/scrolling.ts#L2)*
 
 **Parameters:**
 
