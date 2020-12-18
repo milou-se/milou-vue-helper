@@ -1,7 +1,7 @@
 import Vue from 'vue';
 
-export function AppendComponent(component: Vue, target?: string | Element): Vue {
-    const mountTarget = $('<div></div>').appendTo(target || 'body');
-    component.$mount(mountTarget[0]);
+export function AppendComponent(component: Vue, target?: HTMLElement | Element): Vue {
+    const mountTarget = (target || document.body).appendChild(document.createElement('div'));
+    component.$mount(mountTarget);
     return component;
 }

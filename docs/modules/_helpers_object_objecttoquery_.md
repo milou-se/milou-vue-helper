@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/object/objectToQuery"](_helpers_object_objecttoquery_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/object/objectToQuery"
+> [Globals](../globals.md) / "helpers/object/objectToQuery"
+
+# Module: "helpers/object/objectToQuery"
 
 ## Index
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  ObjectToQuery
+### ObjectToQuery
 
-▸ **ObjectToQuery**(`data`: any): *string*
+▸ **ObjectToQuery**(`data`: any): string
 
-*Defined in [helpers/object/objectToQuery.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/object/objectToQuery.ts#L1)*
+*Defined in [helpers/object/objectToQuery.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/object/objectToQuery.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `data` | any |
 
-**Returns:** *string*
+**Returns:** string

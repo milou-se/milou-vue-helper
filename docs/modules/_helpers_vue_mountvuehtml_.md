@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/vue/mountVueHtml"](_helpers_vue_mountvuehtml_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/vue/mountVueHtml"
+> [Globals](../globals.md) / "helpers/vue/mountVueHtml"
+
+# Module: "helpers/vue/mountVueHtml"
 
 ## Index
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  MountVueHtml
+### MountVueHtml
 
-▸ **MountVueHtml**(`html`: any, `targetElement`: Element): *void*
+▸ **MountVueHtml**(`html`: any, `targetElement`: Element): void
 
-*Defined in [helpers/vue/mountVueHtml.ts:3](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/vue/mountVueHtml.ts#L3)*
+*Defined in [helpers/vue/mountVueHtml.ts:3](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/vue/mountVueHtml.ts#L3)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `html` | any |
 `targetElement` | Element |
 
-**Returns:** *void*
+**Returns:** void

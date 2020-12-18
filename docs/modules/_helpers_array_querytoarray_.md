@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/array/queryToArray"](_helpers_array_querytoarray_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/array/queryToArray"
+> [Globals](../globals.md) / "helpers/array/queryToArray"
+
+# Module: "helpers/array/queryToArray"
 
 ## Index
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  QueryToArray
+### QueryToArray
 
-▸ **QueryToArray**(`params`: string): *any[]*
+▸ **QueryToArray**(`params`: string): any[]
 
-*Defined in [helpers/array/queryToArray.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/array/queryToArray.ts#L1)*
+*Defined in [helpers/array/queryToArray.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/array/queryToArray.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `params` | string |
 
-**Returns:** *any[]*
+**Returns:** any[]

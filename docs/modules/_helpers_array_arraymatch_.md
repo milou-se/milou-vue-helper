@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/array/arrayMatch"](_helpers_array_arraymatch_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/array/arrayMatch"
+> [Globals](../globals.md) / "helpers/array/arrayMatch"
+
+# Module: "helpers/array/arrayMatch"
 
 ## Index
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  ArrayMatch
+### ArrayMatch
 
-▸ **ArrayMatch**(`arr1`: any[], `arr2`: any[]): *boolean*
+▸ **ArrayMatch**(`arr1`: any[], `arr2`: any[]): boolean
 
-*Defined in [helpers/array/arrayMatch.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/array/arrayMatch.ts#L1)*
+*Defined in [helpers/array/arrayMatch.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/array/arrayMatch.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `arr1` | any[] |
 `arr2` | any[] |
 
-**Returns:** *boolean*
+**Returns:** boolean

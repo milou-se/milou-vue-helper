@@ -1,6 +1,6 @@
-[@milou.se/vue-helper](README.md) › [Globals](globals.md)
+**[@milou.se/vue-helper](README.md)**
 
-# @milou.se/vue-helper
+> [Globals](globals.md)
 
 # MilouVueHelper
 Helper functions for page based websites using Typescript AND VueJS

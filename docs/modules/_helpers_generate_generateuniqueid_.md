@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/generate/generateUniqueId"](_helpers_generate_generateuniqueid_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/generate/generateUniqueId"
+> [Globals](../globals.md) / "helpers/generate/generateUniqueId"
+
+# Module: "helpers/generate/generateUniqueId"
 
 ## Index
 
@@ -10,10 +12,10 @@
 
 ## Functions
 
-###  GenerateUniqueId
+### GenerateUniqueId
 
-▸ **GenerateUniqueId**(): *string*
+▸ **GenerateUniqueId**(): string
 
-*Defined in [helpers/generate/generateUniqueId.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/generate/generateUniqueId.ts#L1)*
+*Defined in [helpers/generate/generateUniqueId.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/generate/generateUniqueId.ts#L1)*
 
-**Returns:** *string*
+**Returns:** string

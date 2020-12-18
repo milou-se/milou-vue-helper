@@ -20,8 +20,6 @@ export { ObjectsAreEqual } from './helpers/object/objectsAreEqual';
 export { ObjectToQuery } from './helpers/object/objectToQuery';
 export { QueryToObject } from './helpers/object/queryToObject';
 
-export { Scrolling } from './helpers/scrolling/scrolling';
-
 export { UrlQueryParam } from './helpers/url/urlQueryParam';
 
 export { IsInsideViewport } from './helpers/viewport/isInsideViewport';

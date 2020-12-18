@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/convert/stringToFloat"](_helpers_convert_stringtofloat_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/convert/stringToFloat"
+> [Globals](../globals.md) / "helpers/convert/stringToFloat"
+
+# Module: "helpers/convert/stringToFloat"
 
 ## Index
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  StringToFloat
+### StringToFloat
 
-▸ **StringToFloat**(`str`: string): *number*
+▸ **StringToFloat**(`str`: string): number
 
-*Defined in [helpers/convert/stringToFloat.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/convert/stringToFloat.ts#L1)*
+*Defined in [helpers/convert/stringToFloat.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/convert/stringToFloat.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `str` | string |
 
-**Returns:** *number*
+**Returns:** number

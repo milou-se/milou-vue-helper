@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/object/objectsAreEqual"](_helpers_object_objectsareequal_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/object/objectsAreEqual"
+> [Globals](../globals.md) / "helpers/object/objectsAreEqual"
+
+# Module: "helpers/object/objectsAreEqual"
 
 ## Index
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  ObjectsAreEqual
+### ObjectsAreEqual
 
-▸ **ObjectsAreEqual**(`obj1`: any, `obj2`: any): *boolean*
+▸ **ObjectsAreEqual**(`obj1`: any, `obj2`: any): boolean
 
-*Defined in [helpers/object/objectsAreEqual.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/object/objectsAreEqual.ts#L1)*
+*Defined in [helpers/object/objectsAreEqual.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/object/objectsAreEqual.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `obj1` | any |
 `obj2` | any |
 
-**Returns:** *boolean*
+**Returns:** boolean

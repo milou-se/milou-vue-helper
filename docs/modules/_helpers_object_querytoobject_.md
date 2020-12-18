@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/object/queryToObject"](_helpers_object_querytoobject_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/object/queryToObject"
+> [Globals](../globals.md) / "helpers/object/queryToObject"
+
+# Module: "helpers/object/queryToObject"
 
 ## Index
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  QueryToObject
+### QueryToObject
 
-▸ **QueryToObject**(`url?`: undefined | string): *any*
+▸ **QueryToObject**(`url?`: undefined \| string): any
 
-*Defined in [helpers/object/queryToObject.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/object/queryToObject.ts#L1)*
+*Defined in [helpers/object/queryToObject.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/object/queryToObject.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`url?` | undefined &#124; string |
+`url?` | undefined \| string |
 
-**Returns:** *any*
+**Returns:** any

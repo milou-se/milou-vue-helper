@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/url/urlQueryParam"](_helpers_url_urlqueryparam_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/url/urlQueryParam"
+> [Globals](../globals.md) / "helpers/url/urlQueryParam"
+
+# Module: "helpers/url/urlQueryParam"
 
 ## Index
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  UrlQueryParam
+### UrlQueryParam
 
-▸ **UrlQueryParam**(`field`: string, `url`: string): *string*
+▸ **UrlQueryParam**(`field`: string, `url`: string): string
 
-*Defined in [helpers/url/urlQueryParam.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/url/urlQueryParam.ts#L1)*
+*Defined in [helpers/url/urlQueryParam.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/url/urlQueryParam.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `field` | string |
 `url` | string |
 
-**Returns:** *string*
+**Returns:** string

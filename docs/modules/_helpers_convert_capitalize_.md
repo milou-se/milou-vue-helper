@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/convert/capitalize"](_helpers_convert_capitalize_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/convert/capitalize"
+> [Globals](../globals.md) / "helpers/convert/capitalize"
+
+# Module: "helpers/convert/capitalize"
 
 ## Index
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  Capitalize
+### Capitalize
 
-▸ **Capitalize**(`value`: string): *string*
+▸ **Capitalize**(`value`: string): string
 
-*Defined in [helpers/convert/capitalize.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/convert/capitalize.ts#L1)*
+*Defined in [helpers/convert/capitalize.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/convert/capitalize.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | string |
 
-**Returns:** *string*
+**Returns:** string

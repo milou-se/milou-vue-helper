@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/viewport/isInsideViewport"](_helpers_viewport_isinsideviewport_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/viewport/isInsideViewport"
+> [Globals](../globals.md) / "helpers/viewport/isInsideViewport"
+
+# Module: "helpers/viewport/isInsideViewport"
 
 ## Index
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  IsInsideViewport
+### IsInsideViewport
 
-▸ **IsInsideViewport**(`element`: HTMLElement): *boolean*
+▸ **IsInsideViewport**(`element`: HTMLElement): boolean
 
-*Defined in [helpers/viewport/isInsideViewport.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/viewport/isInsideViewport.ts#L1)*
+*Defined in [helpers/viewport/isInsideViewport.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/viewport/isInsideViewport.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `element` | HTMLElement |
 
-**Returns:** *boolean*
+**Returns:** boolean

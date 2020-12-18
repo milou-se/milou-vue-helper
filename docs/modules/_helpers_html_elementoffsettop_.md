@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/html/elementOffsetTop"](_helpers_html_elementoffsettop_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/html/elementOffsetTop"
+> [Globals](../globals.md) / "helpers/html/elementOffsetTop"
+
+# Module: "helpers/html/elementOffsetTop"
 
 ## Index
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  ElementOffsetTop
+### ElementOffsetTop
 
-▸ **ElementOffsetTop**(`elem`: HTMLElement): *number*
+▸ **ElementOffsetTop**(`elem`: HTMLElement): number
 
-*Defined in [helpers/html/elementOffsetTop.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/html/elementOffsetTop.ts#L1)*
+*Defined in [helpers/html/elementOffsetTop.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/html/elementOffsetTop.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `elem` | HTMLElement |
 
-**Returns:** *number*
+**Returns:** number

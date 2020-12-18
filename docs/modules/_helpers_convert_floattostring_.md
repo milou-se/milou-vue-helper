@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/convert/floatToString"](_helpers_convert_floattostring_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/convert/floatToString"
+> [Globals](../globals.md) / "helpers/convert/floatToString"
+
+# Module: "helpers/convert/floatToString"
 
 ## Index
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  FloatToString
+### FloatToString
 
-▸ **FloatToString**(`float`: number, `decimals`: number): *string*
+▸ **FloatToString**(`float`: number, `decimals`: number): string
 
-*Defined in [helpers/convert/floatToString.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/convert/floatToString.ts#L1)*
+*Defined in [helpers/convert/floatToString.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/convert/floatToString.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `float` | number |
 `decimals` | number |
 
-**Returns:** *string*
+**Returns:** string

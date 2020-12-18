@@ -1,10 +1,12 @@
-[@milou.se/vue-helper](README.md) › [Globals](globals.md)
+**[@milou.se/vue-helper](README.md)**
+
+> Globals
 
 # @milou.se/vue-helper
 
 ## Index
 
-### External modules
+### Modules
 
 * ["helpers/array/arrayHasItems"](modules/_helpers_array_arrayhasitems_.md)
 * ["helpers/array/arrayMatch"](modules/_helpers_array_arraymatch_.md)
@@ -23,7 +25,6 @@
 * ["helpers/object/objectToQuery"](modules/_helpers_object_objecttoquery_.md)
 * ["helpers/object/objectsAreEqual"](modules/_helpers_object_objectsareequal_.md)
 * ["helpers/object/queryToObject"](modules/_helpers_object_querytoobject_.md)
-* ["helpers/scrolling/scrolling"](modules/_helpers_scrolling_scrolling_.md)
 * ["helpers/url/urlQueryParam"](modules/_helpers_url_urlqueryparam_.md)
 * ["helpers/viewport/isInsideViewport"](modules/_helpers_viewport_isinsideviewport_.md)
 * ["helpers/viewport/isOutsideViewport"](modules/_helpers_viewport_isoutsideviewport_.md)

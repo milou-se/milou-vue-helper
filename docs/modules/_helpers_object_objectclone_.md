@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/object/objectClone"](_helpers_object_objectclone_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/object/objectClone"
+> [Globals](../globals.md) / "helpers/object/objectClone"
+
+# Module: "helpers/object/objectClone"
 
 ## Index
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  ObjectClone
+### ObjectClone
 
-▸ **ObjectClone**(`object`: any): *any*
+▸ **ObjectClone**(`object`: any): any
 
-*Defined in [helpers/object/objectClone.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/object/objectClone.ts#L1)*
+*Defined in [helpers/object/objectClone.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/object/objectClone.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `object` | any |
 
-**Returns:** *any*
+**Returns:** any

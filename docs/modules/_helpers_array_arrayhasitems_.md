@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/array/arrayHasItems"](_helpers_array_arrayhasitems_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/array/arrayHasItems"
+> [Globals](../globals.md) / "helpers/array/arrayHasItems"
+
+# Module: "helpers/array/arrayHasItems"
 
 ## Index
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  ArrayHasItems
+### ArrayHasItems
 
-▸ **ArrayHasItems**(`arr`: unknown[]): *boolean*
+▸ **ArrayHasItems**(`arr`: unknown[]): boolean
 
-*Defined in [helpers/array/arrayHasItems.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/array/arrayHasItems.ts#L1)*
+*Defined in [helpers/array/arrayHasItems.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/array/arrayHasItems.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `arr` | unknown[] |
 
-**Returns:** *boolean*
+**Returns:** boolean

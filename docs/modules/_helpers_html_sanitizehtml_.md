@@ -1,6 +1,8 @@
-[@milou.se/vue-helper](../README.md) › [Globals](../globals.md) › ["helpers/html/sanitizeHtml"](_helpers_html_sanitizehtml_.md)
+**[@milou.se/vue-helper](../README.md)**
 
-# External module: "helpers/html/sanitizeHtml"
+> [Globals](../globals.md) / "helpers/html/sanitizeHtml"
+
+# Module: "helpers/html/sanitizeHtml"
 
 ## Index
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  SanitizeHTML
+### SanitizeHTML
 
-▸ **SanitizeHTML**(`str`: string): *string*
+▸ **SanitizeHTML**(`str`: string): string
 
-*Defined in [helpers/html/sanitizeHtml.ts:1](https://github.com/milou-se/milou-vue-helper/blob/83c1a21/src/helpers/html/sanitizeHtml.ts#L1)*
+*Defined in [helpers/html/sanitizeHtml.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/html/sanitizeHtml.ts#L1)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `str` | string |
 
-**Returns:** *string*
+**Returns:** string
