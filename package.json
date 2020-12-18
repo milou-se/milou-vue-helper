@@ -8,7 +8,7 @@
     "dist/**/*"
   ],
   "scripts": {
-    "prepublishOnly": "npm test && npm run lint",
+    "prepublishOnly": "npm test && npm run lint && npm run docs",
     "preversion": "npm run lint",
     "prepare": "npm run build",
     "version": "npm run format && git add -A src",
