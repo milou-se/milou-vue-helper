@@ -1,4 +1,4 @@
 /* tslint:disable */
 import Vue from 'vue';
-const EventBus = new Vue();
+const EventBus: Vue = new Vue();
 export default EventBus;
