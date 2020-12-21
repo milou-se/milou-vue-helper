@@ -16,7 +16,7 @@
 
 ▸ **StringToFloat**(`str`: string): number
 
-*Defined in [helpers/convert/stringToFloat.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/convert/stringToFloat.ts#L1)*
+*Defined in [helpers/convert/stringToFloat.ts:1](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/convert/stringToFloat.ts#L1)*
 
 #### Parameters:
 

@@ -9,6 +9,10 @@ export { FloatToString } from './helpers/convert/floatToString';
 export { StringToFloat } from './helpers/convert/stringToFloat';
 export { TitleCase } from './helpers/convert/titleCase';
 
+export { GetCookie } from './helpers/cookie/getCookie';
+export { SetCookie } from './helpers/cookie/setCookie';
+export { DeleteCookie } from './helpers/cookie/deleteCookie';
+
 export { GenerateUniqueId } from './helpers/generate/generateUniqueId';
 
 export { ElementOffsetTop } from './helpers/html/elementOffsetTop';

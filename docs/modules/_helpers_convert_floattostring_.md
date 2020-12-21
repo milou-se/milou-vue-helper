@@ -16,7 +16,7 @@
 
 ▸ **FloatToString**(`float`: number, `decimals`: number): string
 
-*Defined in [helpers/convert/floatToString.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/convert/floatToString.ts#L1)*
+*Defined in [helpers/convert/floatToString.ts:1](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/convert/floatToString.ts#L1)*
 
 #### Parameters:
 

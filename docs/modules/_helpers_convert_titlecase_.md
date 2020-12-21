@@ -16,7 +16,7 @@
 
 ▸ **TitleCase**(`str`: string): string
 
-*Defined in [helpers/convert/titleCase.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/convert/titleCase.ts#L1)*
+*Defined in [helpers/convert/titleCase.ts:1](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/convert/titleCase.ts#L1)*
 
 #### Parameters:
 

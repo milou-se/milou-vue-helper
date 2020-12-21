@@ -16,7 +16,7 @@
 
 ▸ **Capitalize**(`value`: string): string
 
-*Defined in [helpers/convert/capitalize.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/convert/capitalize.ts#L1)*
+*Defined in [helpers/convert/capitalize.ts:1](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/convert/capitalize.ts#L1)*
 
 #### Parameters:
 

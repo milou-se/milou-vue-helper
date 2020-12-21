@@ -16,6 +16,6 @@
 
 ▸ **GenerateUniqueId**(): string
 
-*Defined in [helpers/generate/generateUniqueId.ts:1](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/generate/generateUniqueId.ts#L1)*
+*Defined in [helpers/generate/generateUniqueId.ts:1](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/generate/generateUniqueId.ts#L1)*
 
 **Returns:** string

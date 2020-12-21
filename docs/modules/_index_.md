@@ -18,6 +18,7 @@
 * [IsInsideViewport](_index_.md#isinsideviewport)
 * [IsMobile](_index_.md#ismobile)
 * [IsOutsideViewport](_index_.md#isoutsideviewport)
+* [Language](_index_.md#language)
 * [MountVueHtml](_index_.md#mountvuehtml)
 * [ObjectClone](_index_.md#objectclone)
 * [ObjectIsEmpty](_index_.md#objectisempty)
@@ -25,8 +26,8 @@
 * [ObjectsAreEqual](_index_.md#objectsareequal)
 * [QueryToArray](_index_.md#querytoarray)
 * [QueryToObject](_index_.md#querytoobject)
-* [SanitizeHTML](_index_.md#sanitizehtml)
 * [StringToFloat](_index_.md#stringtofloat)
+* [StripHTML](_index_.md#striphtml)
 * [TitleCase](_index_.md#titlecase)
 * [UrlQueryParam](_index_.md#urlqueryparam)
 
@@ -92,6 +93,12 @@ Re-exports: [IsOutsideViewport](_helpers_viewport_isoutsideviewport_.md#isoutsid
 
 ___
 
+### Language
+
+Re-exports: [Language](_helpers_html_language_.md#language)
+
+___
+
 ### MountVueHtml
 
 Re-exports: [MountVueHtml](_helpers_vue_mountvuehtml_.md#mountvuehtml)
@@ -134,15 +141,15 @@ Re-exports: [QueryToObject](_helpers_object_querytoobject_.md#querytoobject)
 
 ___
 
-### SanitizeHTML
-
-Re-exports: [SanitizeHTML](_helpers_html_sanitizehtml_.md#sanitizehtml)
-
-___
-
 ### StringToFloat
 
 Re-exports: [StringToFloat](_helpers_convert_stringtofloat_.md#stringtofloat)
+
+___
+
+### StripHTML
+
+Re-exports: [StripHTML](_helpers_html_striphtml_.md#striphtml)
 
 ___
 

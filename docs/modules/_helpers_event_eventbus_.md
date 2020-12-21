@@ -14,6 +14,6 @@
 
 ### EventBus
 
-• `Const` **EventBus**: CombinedVueInstance<Vue, object, object, object, Record<never, any\>\> = new Vue()
+• `Const` **EventBus**: Vue = new Vue()
 
-*Defined in [helpers/event/eventBus.ts:3](https://github.com/milou-se/milou-vue-helper/blob/75d6769/src/helpers/event/eventBus.ts#L3)*
+*Defined in [helpers/event/eventBus.ts:3](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/event/eventBus.ts#L3)*
