@@ -16,7 +16,7 @@
 
 ▸ **IsMobile**(`userAgent?`: string, `includeTablet?`: boolean): boolean
 
-*Defined in [helpers/browser/isMobile.ts:1](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/browser/isMobile.ts#L1)*
+*Defined in [helpers/browser/isMobile.ts:1](https://github.com/milou-se/milou-vue-helper/blob/41b4934/src/helpers/browser/isMobile.ts#L1)*
 
 #### Parameters:
 

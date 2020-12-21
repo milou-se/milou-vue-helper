@@ -16,7 +16,7 @@
 
 ▸ **IsInsideViewport**(`element`: HTMLElement): boolean
 
-*Defined in [helpers/viewport/isInsideViewport.ts:1](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/viewport/isInsideViewport.ts#L1)*
+*Defined in [helpers/viewport/isInsideViewport.ts:1](https://github.com/milou-se/milou-vue-helper/blob/41b4934/src/helpers/viewport/isInsideViewport.ts#L1)*
 
 #### Parameters:
 

@@ -16,4 +16,4 @@
 
 • `Const` **EventBus**: Vue = new Vue()
 
-*Defined in [helpers/event/eventBus.ts:3](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/event/eventBus.ts#L3)*
+*Defined in [helpers/event/eventBus.ts:3](https://github.com/milou-se/milou-vue-helper/blob/41b4934/src/helpers/event/eventBus.ts#L3)*

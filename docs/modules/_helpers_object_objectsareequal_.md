@@ -16,7 +16,7 @@
 
 ▸ **ObjectsAreEqual**(`obj1`: any, `obj2`: any): boolean
 
-*Defined in [helpers/object/objectsAreEqual.ts:1](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/object/objectsAreEqual.ts#L1)*
+*Defined in [helpers/object/objectsAreEqual.ts:1](https://github.com/milou-se/milou-vue-helper/blob/41b4934/src/helpers/object/objectsAreEqual.ts#L1)*
 
 #### Parameters:
 

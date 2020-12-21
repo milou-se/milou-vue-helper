@@ -16,7 +16,7 @@
 
 ▸ **UrlQueryParam**(`field`: string, `url`: string): string
 
-*Defined in [helpers/url/urlQueryParam.ts:1](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/url/urlQueryParam.ts#L1)*
+*Defined in [helpers/url/urlQueryParam.ts:1](https://github.com/milou-se/milou-vue-helper/blob/41b4934/src/helpers/url/urlQueryParam.ts#L1)*
 
 #### Parameters:
 

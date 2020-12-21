@@ -12,9 +12,11 @@
 * [ArrayHasItems](_index_.md#arrayhasitems)
 * [ArrayMatch](_index_.md#arraymatch)
 * [Capitalize](_index_.md#capitalize)
+* [DeleteCookie](_index_.md#deletecookie)
 * [ElementOffsetTop](_index_.md#elementoffsettop)
 * [FloatToString](_index_.md#floattostring)
 * [GenerateUniqueId](_index_.md#generateuniqueid)
+* [GetCookie](_index_.md#getcookie)
 * [IsInsideViewport](_index_.md#isinsideviewport)
 * [IsMobile](_index_.md#ismobile)
 * [IsOutsideViewport](_index_.md#isoutsideviewport)
@@ -26,6 +28,7 @@
 * [ObjectsAreEqual](_index_.md#objectsareequal)
 * [QueryToArray](_index_.md#querytoarray)
 * [QueryToObject](_index_.md#querytoobject)
+* [SetCookie](_index_.md#setcookie)
 * [StringToFloat](_index_.md#stringtofloat)
 * [StripHTML](_index_.md#striphtml)
 * [TitleCase](_index_.md#titlecase)
@@ -57,6 +60,12 @@ Re-exports: [Capitalize](_helpers_convert_capitalize_.md#capitalize)
 
 ___
 
+### DeleteCookie
+
+Re-exports: [DeleteCookie](_helpers_cookie_deletecookie_.md#deletecookie)
+
+___
+
 ### ElementOffsetTop
 
 Re-exports: [ElementOffsetTop](_helpers_html_elementoffsettop_.md#elementoffsettop)
@@ -72,6 +81,12 @@ ___
 ### GenerateUniqueId
 
 Re-exports: [GenerateUniqueId](_helpers_generate_generateuniqueid_.md#generateuniqueid)
+
+___
+
+### GetCookie
+
+Re-exports: [GetCookie](_helpers_cookie_getcookie_.md#getcookie)
 
 ___
 
@@ -138,6 +153,12 @@ ___
 ### QueryToObject
 
 Re-exports: [QueryToObject](_helpers_object_querytoobject_.md#querytoobject)
+
+___
+
+### SetCookie
+
+Re-exports: [SetCookie](_helpers_cookie_setcookie_.md#setcookie)
 
 ___
 

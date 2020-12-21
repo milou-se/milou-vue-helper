@@ -16,7 +16,7 @@
 
 ▸ **AppendComponent**(`component`: Vue, `target?`: HTMLElement \| Element): Vue
 
-*Defined in [helpers/vue/appendComponent.ts:3](https://github.com/milou-se/milou-vue-helper/blob/67af96b/src/helpers/vue/appendComponent.ts#L3)*
+*Defined in [helpers/vue/appendComponent.ts:3](https://github.com/milou-se/milou-vue-helper/blob/41b4934/src/helpers/vue/appendComponent.ts#L3)*
 
 #### Parameters:
 
