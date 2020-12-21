@@ -12,7 +12,8 @@ export { TitleCase } from './helpers/convert/titleCase';
 export { GenerateUniqueId } from './helpers/generate/generateUniqueId';
 
 export { ElementOffsetTop } from './helpers/html/elementOffsetTop';
-export { SanitizeHTML } from './helpers/html/sanitizeHtml';
+export { StripHTML } from './helpers/html/stripHtml';
+export { Language } from './helpers/html/language';
 
 export { ObjectClone } from './helpers/object/objectClone';
 export { ObjectIsEmpty } from './helpers/object/objectIsEmpty';
